@@ -19,12 +19,14 @@ Data ranges from 2019-09-01 to 2023-05-31. Information about features is below.
 * ignore : Ignore(you can drop this feature)
 ​
 * quantile_transform_close_price: Quantile Transform of Close Prices
+  
 ​
 **Time_Based_Features**
 * month: The month of the date of the data
 * year: The year of the date of the data
 * quarter: The quarter of the date of the data
 * weekofyear: The weekofyear of the date of the data
+  
 ​
 **Financial_Terms**
 * rsi_7_days: RSI Values for 7 day periods (If you dont know mean of RSI, you can look at link which exist on RSI header)
@@ -41,6 +43,7 @@ Data ranges from 2019-09-01 to 2023-05-31. Information about features is below.
 * bandwidth: It equals to upper_band - lower_band. I mean, it means differences between upper band to lower band
 * is_bandwidth_gt_6000 : This feature is binary variable which see if **bandwidth for bitcoin** higher than 6000
 * is_bandwidth_gt_400: This feature is binary variable which see if **bandwidth for bitcoin** higher than 400
+  
 ​
 **OnChain Indicators**
 ​
