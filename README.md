@@ -46,6 +46,7 @@ Data ranges from 2019-09-01 to 2023-05-31. Information about features is below.
   
 ​
 **OnChain Indicators**
+
 ​
 This indicators taken from IntoTheBlock. I add this data to github/data section. This datas are daily basis. So I create daily dataset from hourly dataset to see onchain indicator effect on model. So from OnChain Indicator header, I have a 4 datasets(hourly and daily datasets for bitcoin and ethereum)
 You can see details on OnChain Indicatore header to understand mean of indicators.
